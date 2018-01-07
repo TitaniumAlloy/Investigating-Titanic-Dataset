@@ -1721,10 +1721,10 @@ The final biggest limitation and hinderance, is the fact that there were no data
 
 Please note the conclusions tentative:
 <br>
+1. Based on the data we can conclude that for survival factors - If you were a female you had  higher chance of surviving if you embarked from Cherbourg in first class at estimated age of 18 to 35. If you were a male, you had a significant chance of surviving if you embarked from Cherbourg in first class at estimated age of 18 to 35. 
 <br>
-1) Based on the data we can conclude that for survival factors - If you were a female you had  higher chance of surviving if you embarked from Cherbourg in first class at estimated age of 18 to 35. If you were a male, you had a significant chance of surviving if you embarked from Cherbourg in first class at estimated age of 18 to 35.
 <br>
-2) The fare of the tickets were determined from where the person embarked from and the tickets number were exclusive to that Embarked point. In addition the ticket numbers determined the price fo fare because you see repeated number of ticket being used with the same price. This is the closest we can determine for the pricing of tickets. We are missing many information such as discounts, when the tickets were purchased etc. If we were to have additional more data from the past we can probably determine each price. Then again the findings here are tentative.
+2. The fare of the tickets were determined from where the person embarked from and the tickets number were exclusive to that Embarked point. In addition the ticket numbers determined the price fo fare because you see repeated number of ticket being used with the same price. This is the closest we can determine for the pricing of tickets. We are missing many information such as discounts, when the tickets were purchased etc. If we were to have additional more data from the past we can probably determine each price. Then again the findings here are tentative.
 
 <b>Sources:</b>
 <br>https://www.udacity.com/
