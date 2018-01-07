@@ -1,5 +1,5 @@
 
-<h3> Important note - The following is not a display the full project! This is an issue with Markdown files reading html tags. Please refer to `Project_Titanic_Data.html` file to see the full project. Consider this a glimpse of the project on the front-end.</h3>
+<h3> Important note - The following is not a display of the full project! This is an issue with Markdown files reading html tags. Please refer to `Project_Titanic_Data.html` file to see the full project. Consider this a glimpse of the project on the front-end.</h3>
 
 <h1>Investigating Titanic Data</h1><br>
 
