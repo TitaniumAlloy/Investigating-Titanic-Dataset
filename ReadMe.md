@@ -1,4 +1,6 @@
 
+<h3> Important note - The following is not a display the full project! This is an issue with Markdown files reading html tags. Please refer to `Project_Titanic_Data.html` file to see the full project. Consider this a glimpse of the project on the front-end.</h3>
+
 <h1>Investigating Titanic Data</h1><br>
 
 Author: Tanbir<br>
@@ -865,7 +867,7 @@ sns.barplot(x='Sex', y='Survived', hue='Embarked', data=embarked_passenger_df).s
 ```
 
 
-![png](output_34_0.png)
+![png](output_35_0.png)
 
 
 
@@ -874,7 +876,7 @@ sns.barplot(x='Sex', y='Survived', hue='Pclass', data=embarked_passenger_df).set
 ```
 
 
-![png](output_35_0.png)
+![png](output_36_0.png)
 
 
 Now lets check age factor to make our final conclusion based on what we have so far since we know females have a higher percentage.
@@ -887,7 +889,7 @@ grid.add_legend();
 ```
 
 
-![png](output_37_0.png)
+![png](output_38_0.png)
 
 
 <b><h2>Conclusion for question 1 </h2><b>
